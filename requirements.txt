@@ -1,0 +1,7 @@
+pip install pymysql
+pip install pandas
+pip install --upgrade 'sqlalchemy<2.0'
+pip install seaborn
+pip install pillow
+pip install scikit-learn
+pip install fasttext
